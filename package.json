@@ -1,0 +1,9 @@
+{
+  "name": "allure",
+  "version": "0.0.1",
+  "description": "CSS-in-JS",
+  "main": "index.js",
+  "repository": "git@github.com:crc442/allure.git",
+  "author": "Chirag Chauhan <crc442@nyu.edu/@imcrc>",
+  "license": "MIT"
+}
